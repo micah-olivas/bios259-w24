@@ -11,7 +11,7 @@ def main(name):
     Author: Aziz Khan <azizk@stanford.edu>
     """
 
-    print(f"Hello, {name}!\nWelcome to BIOS259 – The Art of Reproducible Science")
+    print(f"Hello, {name}. Thanks for changing app.py!\nWelcome to BIOS259 – The Art of Reproducible Science")
 
 if __name__ == "__main__":
     main()
